@@ -56,8 +56,8 @@ No código, você pode alterar:
 ```cpp
 // Configurações Wi-Fi AP
 IPAddress apIP(192, 168, 4, 1);
-const char* ssid = "ESP32-Repetidor";
-const char* password = "12345678";
+const char* ssid = "ESP32-Repeater";
+const char* password = "123456789";
 
 // Configurações CC1101
 #define RXPin0 4
